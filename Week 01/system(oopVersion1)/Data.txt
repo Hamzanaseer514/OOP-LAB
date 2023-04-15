@@ -1,0 +1,13 @@
+kalyan,cake,Customer
+naseer,234,Admin
+adnan,234,Customer
+mana,23,Customer
+alyan,23,Employe
+hamza123,,
+kalyan,,
+naseer,,
+adnan,,
+mana,,
+alyan,,
+hamza123,1111,Employe
+mananaa,123,Customer

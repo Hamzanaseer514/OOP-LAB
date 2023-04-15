@@ -1,0 +1,5 @@
+hamza123,aaaa,Employe
+adnan,1111,Customer
+rauf,12345677,Customer
+zulqarnain,zulu123,Employe
+maana,ilam,Customer
