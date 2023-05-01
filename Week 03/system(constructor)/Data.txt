@@ -1,0 +1,2 @@
+mana,1234,Customer
+hamza,avqw,Employe
