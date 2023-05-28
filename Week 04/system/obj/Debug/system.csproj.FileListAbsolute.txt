@@ -1,0 +1,7 @@
+D:\2nd semester OOP\OOP PD\Week 04\system\bin\Debug\system.exe.config
+D:\2nd semester OOP\OOP PD\Week 04\system\bin\Debug\system.exe
+D:\2nd semester OOP\OOP PD\Week 04\system\bin\Debug\system.pdb
+D:\2nd semester OOP\OOP PD\Week 04\system\obj\Debug\system.csproj.AssemblyReference.cache
+D:\2nd semester OOP\OOP PD\Week 04\system\obj\Debug\system.csproj.CoreCompileInputs.cache
+D:\2nd semester OOP\OOP PD\Week 04\system\obj\Debug\system.exe
+D:\2nd semester OOP\OOP PD\Week 04\system\obj\Debug\system.pdb

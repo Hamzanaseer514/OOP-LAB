@@ -1,0 +1,7 @@
+D:\2nd semester OOP\OOP PD\Week 04\ShipTask\bin\Debug\ShipTask.exe.config
+D:\2nd semester OOP\OOP PD\Week 04\ShipTask\bin\Debug\ShipTask.exe
+D:\2nd semester OOP\OOP PD\Week 04\ShipTask\bin\Debug\ShipTask.pdb
+D:\2nd semester OOP\OOP PD\Week 04\ShipTask\obj\Debug\ShipTask.csproj.AssemblyReference.cache
+D:\2nd semester OOP\OOP PD\Week 04\ShipTask\obj\Debug\ShipTask.csproj.CoreCompileInputs.cache
+D:\2nd semester OOP\OOP PD\Week 04\ShipTask\obj\Debug\ShipTask.exe
+D:\2nd semester OOP\OOP PD\Week 04\ShipTask\obj\Debug\ShipTask.pdb
